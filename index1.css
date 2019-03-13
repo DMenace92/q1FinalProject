@@ -1,0 +1,28 @@
+body {
+  background-image: url("192aa191-a00a-421f-827c-56049bb3d0c8_1.65c580cfd6f3ef0dcd455cf0186bb49f.jpeg");
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.primary-header {
+  background-color: black;
+  padding: 3.5vh;
+  opacity: 0.5;
+  backface-visibility: visible;
+}
+
+.myButton {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+}
+
+.wrapper {
+  height: 87vh;
+}
+.foot {
+  background-color: black;
+  opacity: 0.5;
+  padding: 3vh;
+}

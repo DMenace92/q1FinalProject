@@ -1,0 +1,146 @@
+body {
+  background-image: url("192aa191-a00a-421f-827c-56049bb3d0c8_1.65c580cfd6f3ef0dcd455cf0186bb49f.jpeg");
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  height: 87vh;
+}
+img{
+  height:100%
+}
+
+.primary-header {
+  background-color: black;
+  padding: 3.5vh;
+  opacity: 0.5;
+  backface-visibility: visible;
+}
+
+.container {
+  border:1px solid black;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 20vw;
+  height: 59.2vh;
+  justify-content: center;
+  margin: 5vh 6.5vw 0vh 0vw;
+  float: right;
+}
+.container1{
+
+  width: 22vw;
+  height: 85vh;
+  float: right;
+  margin: 1vh 18vw 0vh 0vw;
+
+}
+.container2{
+  border:1px solid black;
+  width: 20vw;
+  height: 59.2vh;
+  float: right;
+  margin: 5vh 10vw 0vh 0vw;
+  background-color: white;
+}
+
+/* .image>img {
+  width: 19.95vw;
+} */
+
+.inner {
+  border: 1px solid black;
+  background-color: white;
+  margin: 25px;
+  width: 9vw;
+  height: 27vh;
+}
+
+form, p, span {
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  font: 12px arial;
+}
+
+a {
+  color: #0000FF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#wrapper, #loginform {
+  margin: 0 auto;
+  padding-bottom: 25px;
+  background: black;
+  opacity: 0.8;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #ACD8F0;
+}
+
+#loginform {
+  padding-top: 18px;
+}
+
+#loginform p {
+  margin: 5px;
+}
+
+#chatbox {
+  text-align: left;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  padding: 10px;
+  background: gray;
+  height: 80%;
+  width: 100%;
+  border: 1px solid #ACD8F0;
+  overflow: auto;
+}
+
+#usermsg {
+  margin-left: 5px;
+  width: 70%;
+  border: 1px solid #ACD8F0;
+}
+
+#submit {
+  width: 60px;
+}
+
+.error {
+  color: #ff0000;
+}
+
+#menu {
+  padding: 12.5px 25px 12.5px 25px;
+}
+
+.welcome {
+  color: white;
+  float: left;
+  font-size: 1.5vh;
+}
+
+.logout {
+  float: right;
+  font-size: 1.5vh;
+}
+
+.msgln {
+  margin: 0 0 2px 0;
+}
+
+.foot {
+  background-color: black;
+  opacity: 0.5;
+  padding: 3vh;
+}
